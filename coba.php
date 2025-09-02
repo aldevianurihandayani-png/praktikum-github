@@ -1,3 +1,4 @@
 perbaiki ini
 
-<?php
+<?php 
+echo "Hello World!";
