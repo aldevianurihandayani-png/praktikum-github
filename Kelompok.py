@@ -1,6 +1,6 @@
 # Data mahasiswa: nama, id_kelompok, ipk, prestasi, public speaking, etika
 mahasiswa = [
-    {"nama": "Budi", "kelompok": 1, "ipk": 3.80, "prestasi": 2, "public_speaking": 75, "etika": 85},
+    {"nama": "Ana", "kelompok": 1, "ipk": 3.80, "prestasi": 2, "public_speaking": 75, "etika": 85},
     {"nama": "Anya", "kelompok": 1, "ipk": 3.90, "prestasi": 0, "public_speaking": 82, "etika": 80},
     {"nama": "Juned", "kelompok": 2, "ipk": 4.00, "prestasi": 3, "public_speaking": 70, "etika": 79},
     {"nama": "Sinta", "kelompok": 2, "ipk": 3.70, "prestasi": 1, "public_speaking": 88, "etika": 84},
