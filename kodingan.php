@@ -8,6 +8,6 @@
   <h1>Tentang kami</h1>
   <p>Halo, kami dari kelompok 1 pbl, mahasiswa dikampus politala kelas 3E.</p>
   <p>Saya sedang belajar Git dan GitHub untuk praktikum.</p>
-  <a href="index.html">Kembali ke Halaman Utama</a>
+  <a href="index.html">Kembali ke Home</a>
 </body>
 </html>
